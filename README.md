@@ -1,4 +1,3 @@
-# ca-pollution-mortality-analysis
 # California Pollution & Mortality Analysis
 
 ## Overview
