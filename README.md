@@ -4,8 +4,7 @@
 This project analyzes the relationship between air pollution (ozone, PM2.5, AQI) and 
 mortality across California counties using daily monitor-level data from 2024. The 
 analysis covers data cleaning and merging, descriptive statistics, visualization, and 
-panel regression models with fixed effects — with particular attention to the 
-identification threats that complicate a causal interpretation of the results.
+panel regression models with fixed effects.
 
 ## What's in this repo
 - **Data processing**: Merges two monitor-level datasets (ozone and PM2.5) on 
