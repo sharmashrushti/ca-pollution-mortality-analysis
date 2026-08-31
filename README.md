@@ -18,9 +18,6 @@ panel regression models with fixed effects.
 - **Regression analysis**: Two-way (county × date) fixed-effects models of mortality 
   on AQI, including a lagged-pollution specification and a CBSA interaction term, with 
   discussion of collinearity and omitted variable bias.
-- **Identification discussion**: A written analysis of threats to causal interpretation, 
-  including omitted lag structure, unobserved county-day confounders, and mortality 
-  "harvesting" (short-term displacement vs. genuine increases in mortality).
 
 ## Tools
 Python — `pandas`, `numpy`, `statsmodels`, `matplotlib`
